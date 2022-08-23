@@ -1,0 +1,24 @@
+{
+  "name": "altschool-assignment-g",
+  "version": "1.0.0",
+  "description": "Solution to Assignment G from AltSchool School of Engnineering curriculum.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adekunleoloduero/AltSchool-Assignment-G.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adekunleoloduero/AltSchool-Assignment-G/issues"
+  },
+  "homepage": "https://github.com/adekunleoloduero/AltSchool-Assignment-G#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
